@@ -1,0 +1,4 @@
+export INPUT_CONFIG_PATH=/home/bjsvwpfe/development/qwc-docker/volumes/config-in/  \
+export PGSERVICEFILE=/home/bjsvwpfe/development/config-generator/pg_service.conf \
+export OUTPUT_CONFIG_PATH=/home/bjsvwpfe/development/config-generator/volumes/config/ \
+export JSON_SCHEMAS_PATH=/home/bjsvwpfe/development/config-generator/schemas/
